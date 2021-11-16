@@ -1,0 +1,7 @@
+{
+    "coverage_url": "https://sandbox-mda.mekongsms.com/ipcheck",
+    "authorization_url": "https://sandbox-mda.mekongsms.com/verify/submit",
+    "redirect_uri": "https://client-app.com/redirect",
+    "client_id":"add3d345dss..."
+   }
+   

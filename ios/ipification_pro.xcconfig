@@ -1,0 +1,11 @@
+//
+//  ipification_pro.xcconfig
+//  firstapp
+
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+COVERAGE_ENDPOINT = https:\/\/sandbox-mda.mekongsms.com/ipcheck
+AUTHORIZATION_URL = https:\/\/sandbox-mda.mekongsms.com/verify/submit
+REDIRECT_URI = http:\/\/client-app.com/redirect
+CLIENT_ID = 448c7ec51f31...
